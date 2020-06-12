@@ -1,0 +1,91 @@
+/* width */
+::-webkit-scrollbar {
+  width: 20px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px grey; 
+  border-radius: 5px;
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: rgb(103, 103, 128); 
+  border-radius: 5px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: rgb(104, 104, 153); 
+}
+
+header {
+  background-color: #2a3439;
+  color: gray;
+  height: 80px;
+}
+
+header h1 {
+  font-family: 'Kanit', sans-serif;
+  font-size: 50px;
+  display: inline;
+  position: relative;
+  top: 12px;
+  left: 50px;
+}
+
+header p {
+  font-family: 'Kanit', sans-serif;
+  font-weight: 200;
+  font-size: 30px;
+  position: relative;
+  margin: 0px auto;
+  bottom: 25px;
+  width: 326px;
+}
+
+header ul {
+  font-family: 'Kanit', sans-serif;
+  font-weight: 200;
+  float: right;
+  position: relative;
+  bottom: 55px;
+  right: 50px;
+}
+
+header ul li {
+  display: inline;
+  font-size: 30px;
+}
+
+header ul .top-score {
+  padding-left: 10px;
+}
+
+header ul .score {
+  padding-right: 10px;
+  border-right: solid gray 1px;
+}
+
+.sub-header {
+  background-image: url(sub-header\ background.jpg);
+  background-size: cover;
+  height: 750px;
+  border-bottom: solid #2a3439 50px;
+}
+
+.sub-header p {
+  font-family: 'Kanit', sans-serif;
+  font-size: 20px;
+  color: gray;
+  position: relative;
+  top: 765px;
+  margin: 0px auto;
+  width: 685px;
+}
+
+.main {
+  height: 500px;
+}
+
