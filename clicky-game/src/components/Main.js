@@ -1,10 +1,9 @@
 import React from "react";
-import images from "../images.json";
 
-function Main() {
+function Main(props) {
   return (
     <div className="main">
-      <img src={images[0].image} alt="" />;
+      <img src={props.image} alt="" />
     </div>
   )
 }

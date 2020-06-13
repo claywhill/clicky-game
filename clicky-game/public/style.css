@@ -85,7 +85,11 @@ header ul .score {
   width: 685px;
 }
 
-.main {
+/* .main {
   height: 500px;
-}
+} */
 
+.main img {
+  width: 200px;
+  height: 150px;
+}
