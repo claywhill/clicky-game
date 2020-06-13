@@ -1,0 +1,61 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/images/a10.png",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "/assets/images/f4.png",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "/assets/images/f14.png",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "/assets/images/f15.png",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "/assets/images/f16.png",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "/assets/images/f18.png",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "/assets/images/f22.png",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "/assets/images/f35.png",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "/assets/images/f117.png",
+    "clicked": false
+  },{
+    "id": 10,
+    "image": "/assets/images/harrier.png",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "/assets/images/mig.png",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "/assets/images/typhoon.png",
+    "clicked": false
+  }
+]
