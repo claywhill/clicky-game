@@ -9,8 +9,10 @@ function App() {
     <div>
       <Header />
       <SubHeader />
-      {images.map(newImage => 
-        <Main image={newImage.image} />)}
+      <div className="main">
+        {images.map(newImage => 
+          <Main image={newImage.image} />)}
+      </div>
     </div>
   )
 }

@@ -85,11 +85,18 @@ header ul .score {
   width: 685px;
 }
 
-/* .main {
-  height: 500px;
-} */
+.main {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 20px;
+  padding: 20px 50px;
+  background-color: black;
+  ;
+}
 
 .main img {
   width: 200px;
   height: 150px;
+  border: solid #2a3439 4px;
+  border-radius: 5px;
 }
