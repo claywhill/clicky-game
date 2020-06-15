@@ -1,9 +1,9 @@
 import React from "react";
 
-function SubHeader() {
+function SubHeader(props) {
   return (
     <div className="sub-header">
-      <p>Click on an image to earn points, but don't click on any more than once!</p>
+      <p>{props.gameMessage}</p>
     </div>
   )
 }

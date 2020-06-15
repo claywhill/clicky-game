@@ -2,7 +2,9 @@ import React from "react";
 
 function Main(props) {
   return (
-      <img src={props.image} alt="" />
+      <div className="main">
+        {props.children}
+      </div>
   )
 }
 
