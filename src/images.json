@@ -1,60 +1,72 @@
 [
   {
     "id": 1,
+    "name": "A-10",
     "image": "/assets/images/a10.jpg",
     "clicked": false
   },
   {
     "id": 2,
+    "name": "F-4",
     "image": "/assets/images/f4.jpg",
     "clicked": false
   },
   {
     "id": 3,
+    "name": "F-14",
     "image": "/assets/images/f14.jpg",
     "clicked": false
   },
   {
     "id": 4,
+    "name": "F-15",
     "image": "/assets/images/f15.jpg",
     "clicked": false
   },
   {
     "id": 5,
+    "name": "F-16",
     "image": "/assets/images/f16.jpg",
     "clicked": false
   },
   {
     "id": 6,
+    "name": "F-18",
     "image": "/assets/images/f18.jpg",
     "clicked": false
   },
   {
     "id": 7,
+    "name": "F-22",
     "image": "/assets/images/f22.jpg",
     "clicked": false
   },
   {
     "id": 8,
+    "name": "F-35",
     "image": "/assets/images/f35.jpg",
     "clicked": false
   },
   {
     "id": 9,
+    "name": "F-117",
     "image": "/assets/images/f117.jpg",
     "clicked": false
   },{
     "id": 10,
+    "name": "Harrier",
     "image": "/assets/images/harrier.jpg",
     "clicked": false
   },
   {
     "id": 11,
+    "name": "Mig",
     "image": "/assets/images/mig.jpg",
     "clicked": false
   },
   {
     "id": 12,
+    "name": "Typhoon",
     "image": "/assets/images/typhoon.jpg",
     "clicked": false
   }

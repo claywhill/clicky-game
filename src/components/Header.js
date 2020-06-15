@@ -1,7 +1,8 @@
 import React from "react";
 
 function Header() {
-  return <header>
+  return (
+  <header>
     <h1>Clicky Game</h1>
     <p>Click an image to begin!</p>
     <ul>
@@ -9,6 +10,7 @@ function Header() {
       <li className="top-score">Top Score: 0</li>
     </ul>
   </header>
+  )
 }
 
 export default Header;
