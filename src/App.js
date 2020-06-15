@@ -77,7 +77,7 @@ class App extends Component {
   render() {
     return (
       <div>
-        <Header score={this.state.score} topScore={this.state.topScore} gameMessage={this.state.gameMessage} />
+        <Header score={this.state.score} topScore={this.state.topScore} />
         <SubHeader />
         <Main>
           {this.state.images.map(fighter => (
