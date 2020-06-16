@@ -83,6 +83,7 @@ header ul .score {
   top: 765px;
   margin: 0px auto;
   width: 685px;
+  text-align: center;
 }
 
 .main {
@@ -91,6 +92,8 @@ header ul .score {
   grid-gap: 20px;
   padding: 20px 50px;
   background-color: black;
+  justify-content: center;
+  align-items: center;
 }
 
 .main img {
@@ -99,6 +102,11 @@ header ul .score {
   border: solid #2a3439 4px;
   border-radius: 5px;
   margin: 0px auto;
+}
+
+.image-container img {
+margin: 0px auto;
+justify-content: center;
 }
 
 footer {

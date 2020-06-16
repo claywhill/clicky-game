@@ -78,7 +78,7 @@ class App extends Component {
     return (
       <div>
         <Header score={this.state.score} topScore={this.state.topScore} />
-        <SubHeader />
+        <SubHeader message={this.state.gameMessage} />
         <Main>
           {this.state.images.map(fighter => (
             <ImageTile
