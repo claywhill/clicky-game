@@ -92,8 +92,7 @@ header ul .score {
   grid-gap: 20px;
   padding: 20px 50px;
   background-color: black;
-  justify-content: center;
-  align-items: center;
+  justify-items: center;
 }
 
 .main img {
@@ -101,12 +100,6 @@ header ul .score {
   height: 150px;
   border: solid #2a3439 4px;
   border-radius: 5px;
-  margin: 0px auto;
-}
-
-.image-container img {
-margin: 0px auto;
-justify-content: center;
 }
 
 footer {
